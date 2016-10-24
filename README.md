@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/spekkionu/golem-auth-storage-zend.svg?branch=master)](https://travis-ci.org/spekkionu/golem-auth-storage-zend)
 [![Code Coverage](https://scrutinizer-ci.com/g/spekkionu/golem-auth-storage-zend/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/spekkionu/golem-auth-storage-zend/?branch=master)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spekkionu/golem-auth-storage-zend/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spekkionu/golem-auth-storage-zend/?branch=master)
-[![Total Downloads](https://poser.pugx.org/golem/auth-storage-zend/downloads.png)](https://packagist.org/packages/golem/auth-storage-zend)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/7de4d722-aa4b-4a45-8cfa-d781e9d541bf/mini.png)](https://insight.sensiolabs.com/projects/7de4d722-aa4b-4a45-8cfa-d781e9d541bf)
 
 Zend Framework - Zend Session storage adapter for Golem Auth
 
